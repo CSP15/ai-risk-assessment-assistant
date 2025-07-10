@@ -1,0 +1,24 @@
+
+# AI Risk Assessment Assistant
+
+A GenAI-powered assistant concept designed to help project managers and cybersecurity professionals identify, prioritise, and respond to risks using established frameworks like ISO 27001 and NIST CSF.
+
+## 💡 Objectives
+- Simplify the risk identification process using natural language
+- Map user input to specific domains (cybersecurity, operational, compliance)
+- Recommend control measures or mitigations
+- Explore integration with productivity tools like Notion or Trello
+
+## 📦 Components
+- Use case scenarios and risk personas
+- Prompt templates for risk evaluation
+- Output examples for audit and traceability
+- Integration notes for cloud-based tools
+- Ethical and governance review
+
+## 📌 Status
+MVP planning and prompt design in progress.
+
+## 👤 Author
+[Your Name]  
+Cybersecurity | AI | Project Management
