@@ -1,0 +1,17 @@
+
+{
+  "prompts": [
+    {
+      "intent": "Identify third-party risk",
+      "example_input": "We’re allowing a vendor access to our database.",
+      "mapped_domain": "Supply Chain Risk",
+      "recommended_framework": "ISO 27001 - A.15"
+    },
+    {
+      "intent": "Detect data privacy concerns",
+      "example_input": "We’re collecting sensitive customer data via a web form.",
+      "mapped_domain": "Data Privacy",
+      "recommended_framework": "GDPR - Article 5"
+    }
+  ]
+}
